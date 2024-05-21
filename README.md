@@ -24,7 +24,6 @@
 3. 매주 토요일 11:00에 만나서 코드리뷰 후 Merge한다.
 <br>
 <br>
-<br>
 
 ## ✅ Commit 규칙<br>
 - commit 메세지: [문제 출처(플랫폼)-문제번호] 문제이름 / 난이도 <br>
@@ -39,7 +38,6 @@ Ex) description: ```"https://www.acmicpc.net/problem/2557"```
   - [CFS] - 코드포스
   - [SEA] - 삼성SW Expert Academy
   - [ETC] - 그외
-<br>
 <br>
 <br>
 
