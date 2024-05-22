@@ -6,11 +6,11 @@
 <table align = "center">
   <tr align = "center">
     <td><a href="https://github.com/cyndii20"><img src="https://avatars.githubusercontent.com/u/90389093?v=4" width=200></a></td>
-    <td><a href="https://github.com/cyndii20"><img src="https://avatars.githubusercontent.com/u/90389093?v=4" width=200></a></td>
+    <td><a href="https://github.com/y00nsun"><img src="https://avatars.githubusercontent.com/u/90389093?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/cyndii20">서정연</a> <br> 사용 언어 : Java</td>
-    <td><a href = "https://github.com/cyndii20">이윤선</a> <br> 사용 언어 : Python</td>
+    <td><a href = "https://github.com/y00nsun">이윤선</a> <br> 사용 언어 : Python</td>
   </tr>
 
 </table>
