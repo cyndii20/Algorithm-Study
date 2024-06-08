@@ -57,6 +57,7 @@ while (True):
         print(f"({cur_r}, {cur_c}) 청소")
         print(f"d = {cur_d}")
         for i in range(n):
+            
             for j in range(m):
                 print(room[i][j], end=" ")
             print()
