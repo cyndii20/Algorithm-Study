@@ -1,5 +1,6 @@
 # BOJ
 # 14891: 톱니 바퀴
+# https://www.acmicpc.net/problem/14891
 
 
 def rotate(t, v):
