@@ -1,5 +1,5 @@
 # BOJ
-# 14890 : 경사로
+# 14890 : 경사로 (골드3)
 # https://www.acmicpc.net/problem/14890
 
 
