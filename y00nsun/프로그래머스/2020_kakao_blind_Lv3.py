@@ -1,5 +1,7 @@
-# 2020 kakao 공채 - 코테 기출
-# 자물쇠와 열쇠 LV 3
+# PROGRAMMERS
+# 2020 KAKAO BLIND RECRUITMENT
+# Lv.3 자물쇠와 열쇠
+# https://school.programmers.co.kr/learn/courses/30/lessons/60059
 
 def attach(x, y, M, key, board):
     for i in range(M):
